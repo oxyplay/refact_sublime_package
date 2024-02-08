@@ -884,6 +884,16 @@
 			]
 		},
 		{
+			"name": "Refact",
+			"details": "https://github.com/smallcloudai/refact-sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Reform",
 			"details": "https://github.com/Suor/sublime-reform",
 			"labels": ["formatting"],
